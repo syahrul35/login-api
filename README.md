@@ -17,11 +17,11 @@ This is an Express.js project with a role-based access control (RBAC) system imp
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/syahrul35/b2b-backend.git
+   git clone https://github.com/syahrul35/login-api.git
    ```
    then
    ```bash
-   cd b2b-backend
+   cd login-api
    ```
 
 3. **Install Dependencies:**
